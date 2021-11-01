@@ -1,3 +1,11 @@
-# Hello - My name is Todd Vydick. I am a heavy into Ansible and writing playbooks.
+### Hi there 👋, my name is Todd
+#### Automate the world!
+Technical Sales person with over 30 years in the IT industry
 
-# Please Sign my Guestbook
+Skills: Automation, K8's, Dev/Ops, AIOps, Linux, Mainframe
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
