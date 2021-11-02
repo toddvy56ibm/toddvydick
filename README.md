@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Todd
-#### Automate the world!
+#### Automate the world with secure SCM!
 Technical Sales person with over 30 years in the IT industry
 
 Skills: Automation, K8's, Dev/Ops, AIOps, Linux, Mainframe
